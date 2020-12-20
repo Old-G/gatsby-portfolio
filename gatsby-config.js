@@ -22,8 +22,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `GAZCV`,
-        short_name: `GAZCV`,
+        name: `GAZDEV`,
+        short_name: `GAZDEV`,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#02aab0`,
